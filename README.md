@@ -23,8 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arhaan-Ali&show_icons=true&locale=en&layout=compact" alt="Arhaan-Ali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arhaan-Ali&show_icons=true&locale=en" alt="Arhaan-Ali" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arhaan-Ali&" alt="Arhaan-Ali" /></p>
 
 
