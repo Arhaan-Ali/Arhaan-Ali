@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arhaan Ali</h1>
 <h3 align="center">A passionate developer interested in Artificial Intelligence, Machine Learning, and UI/UX designing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhaan-ali" alt="arhaan-ali" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/Arhaan_Ali_" target="blank"><img src="https://img.shields.io/twitter/follow/Arhaan_Ali_?logo=twitter&style=for-the-badge" alt="Arhaan_ali_" /></a> </p>
 
 
