@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/Arhaan_Ali_" target="blank"><img src="https://img.shields.io/twitter/follow/Arhaan_Ali_?logo=twitter&style=for-the-badge" alt="Arhaan_ali_" /></a> </p>
 
-- 🔭 I’m currently working on [Hacksaathi](https://www.hacksaathi.app)
 
 - 🌱 I’m currently learning **Machine Learning, Prompt Engineering, DSA**
 
@@ -23,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arhaan-Ali&show_icons=true&locale=en&layout=compact" alt="Arhaan-Ali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arhaan-Ali&" alt="Arhaan-Ali" /></p>
+
 
 
 <!--
